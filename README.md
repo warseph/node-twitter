@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/desmondmorris/node-twitter.png?branch=v1.0)](https://travis-ci.org/desmondmorris/node-twitter)
 Twitter API client library for node.js
 ======================================
 [![NPM](https://nodei.co/npm/twitter.png)](https://nodei.co/npm/twitter/)

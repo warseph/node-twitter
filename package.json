@@ -24,6 +24,14 @@
         "cookies": ">=0.1.6",
         "keygrip": ">=0.1.7"
     },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*",
+        "nock": "*"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
     "engines": [
         "node >=0.2.0"
     ],
