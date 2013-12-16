@@ -12,6 +12,8 @@ You can install node-twitter and its dependencies with npm: `npm install twitter
 - [node](http://nodejs.org/) v0.6+
 - [node-oauth](https://github.com/ciaranj/node-oauth)
 - [cookies](https://github.com/jed/cookies)
+- [keygrip](https://github.com/jed/keygrip)
+- [JSONStream](https://github.com/dominictarr/JSONStream)
 
 ## Getting started
 
