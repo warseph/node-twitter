@@ -33,7 +33,7 @@
     },
     "scripts": {
         "test": "mocha",
-        "lint": "jslint *.js lib/*.js test/*.js"
+        "lint": "jslint *.js lib/*.js lib/resources/*.js test/*.js"
     },
     "engines": [
         "node >=0.2.0"
