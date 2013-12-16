@@ -28,10 +28,12 @@
     "devDependencies": {
         "mocha": "*",
         "should": "*",
-        "nock": "*"
+        "nock": "*",
+        "jslint": "*"
     },
     "scripts": {
-        "test": "mocha"
+        "test": "mocha",
+        "lint": "jslint *.js lib/*.js test/*.js"
     },
     "engines": [
         "node >=0.2.0"
